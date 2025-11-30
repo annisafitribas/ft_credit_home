@@ -79,21 +79,10 @@ bash
 git clone https://github.com/annisafitribas/ft_credit_home
 cd ft_credit_home
 
-### **2. Install Dependencies**
-bash
-pip install -r requirements.txt
-
-### **3. Jalankan Notebook**
-bash
-jupyter notebook
-
 ## Struktur Folder
 ft_credit_home/
-│── data/              # Dataset
-│── notebook.ipynb     # Model development
-│── models/            # Saved models
+│── notebook.ipynb
 │── README.md
-│── requirements.txt
 
 ## 6. Referensi
 - Home Credit Default Risk Dataset  
