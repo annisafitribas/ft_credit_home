@@ -93,6 +93,8 @@ ft_credit_home/
 ## GitHub Repo
 https://github.com/annisafitribas/ft_credit_home
 
+## Link Google Drive
+https://drive.google.com/drive/folders/12DLaKNhiffq7fKSwScaaVLs6lQqh32h4?usp=sharing
 
 ## Author
 An Nisa Fitri — Data Science Project  
