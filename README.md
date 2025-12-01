@@ -94,5 +94,5 @@ ft_credit_home/
 https://github.com/annisafitribas/ft_credit_home
 
 
-## ✨ Author
+## Author
 An Nisa Fitri — Data Science Project  
